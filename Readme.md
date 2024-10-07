@@ -1,5 +1,5 @@
 ## Project
-
+    learning git github commands by writing some js code
 ## Description
   To write a js programs where i check the Even numbers,Odd numbers,Prime numbers,Min,Max and sum
 
