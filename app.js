@@ -33,7 +33,7 @@ function findsum(prime) {
     let sum = 0;
     for (let i = 0; i < prime.length; i++) {
 
-        sum += prime[i];
+        sum += prime[i]; 
     }
     return sum;
 }
